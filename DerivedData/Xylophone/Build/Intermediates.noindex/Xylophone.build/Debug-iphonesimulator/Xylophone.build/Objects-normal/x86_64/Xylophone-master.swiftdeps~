@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "e91a247a50ed957b9518cb72996f3276"
+build_time: [1575604529, 275108000]
+inputs:
+  "/Users/user163229/Desktop/Xylophone-iOS13/Xylophone/ViewController.swift": [1575604529, 234386694]
+  "/Users/user163229/Desktop/Xylophone-iOS13/Xylophone/AppDelegate.swift": [1575598211, 850850496]
+  "/Users/user163229/Desktop/Xylophone-iOS13/Xylophone/SceneDelegate.swift": [1575598211, 879970715]

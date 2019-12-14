@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>45E6ABE2-FA25-4B34-9482-91C1CD4663E5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45E6ABE2-FA25-4B34-9482-91C1CD4663E5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Xylophone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Xylophone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Xylophone</string>
+			<key>timeStartedRecording</key>
+			<real>597297329.242082</real>
+			<key>timeStoppedRecording</key>
+			<real>597297331.22756004</real>
+			<key>title</key>
+			<string>Build Xylophone</string>
+			<key>uniqueIdentifier</key>
+			<string>45E6ABE2-FA25-4B34-9482-91C1CD4663E5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
